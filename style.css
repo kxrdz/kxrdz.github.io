@@ -1,0 +1,15 @@
+/* CSS code for header */
+header {
+    background-color: black;
+}
+
+/* CSS code for list items */
+li {
+    color: white;
+    transition: color 0.5s ease-in-out;
+}
+
+/* CSS code for fade effect on hover */
+li:hover {
+    color: rgba(255, 255, 255, 0.5);
+}
